@@ -62,3 +62,5 @@ The Qwen API Platform page only names text workloads. For generation across FLUX
 ## When Synexa fits better
 
 A qwen api key gets you a capable text model behind an OpenAI-compatible endpoint. Products rarely stop at text: the same feature usually wants a cover image, a short clip or a voice track, and each of those normally means another vendor, another key and another billing page. [Try Synexa - one API for FLUX, video and audio models](https://synexa.ai?utm_source=github&utm_medium=ugc&utm_campaign=qwen-api-key&utm_content=readme-top&utm_term=tier-r) if you want to keep that side simple: one REST endpoint and a Python SDK across FLUX image, video and audio models, charged per run rather than per seat. Keep Qwen for the language work and let a single generation API cover the rest.
+
+_Last reviewed: 2026-09-22_
